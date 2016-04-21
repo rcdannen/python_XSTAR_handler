@@ -5,7 +5,7 @@ Python scrlessipt to read a parameter file and launch
 XSTAR with those parameters or restart a given grid of
 models.
 
-Usage: python [name].py [file]
+Usage: python [name].py -i [file]
 """
 import sys
 import os
