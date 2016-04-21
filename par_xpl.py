@@ -1,9 +1,8 @@
 """
-Version 0.3:  Hopefully to add multithreading properly
+Version 0.03:  Hopefully to add multithreading properly
 
-Python scrlessipt to read a parameter file and launch 
-XSTAR with those parameters or restart a given grid of
-models.
+Python script to read a parameter file and launch 
+XSTAR with those parameters.
 
 Usage: python [name].py -i [file]
 """
